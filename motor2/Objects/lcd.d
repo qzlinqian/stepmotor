@@ -1,0 +1,10 @@
+.\objects\lcd.o: ..\motor\HARDWARE\src\lcd.c
+.\objects\lcd.o: ..\motor\HARDWARE\inc\lcd.h
+.\objects\lcd.o: ..\motor\HARDWARE\inc\sys.h
+.\objects\lcd.o: ..\motor\CMSIS\stm32f10x.h
+.\objects\lcd.o: ..\motor\CMSIS\core_cm3.h
+.\objects\lcd.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lcd.o: ..\motor\CMSIS\system_stm32f10x.h
+.\objects\lcd.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\lcd.o: ..\motor\HARDWARE\inc\font.h
+.\objects\lcd.o: ..\motor\HARDWARE\inc\timer.h

@@ -1,0 +1,10 @@
+.\objects\ov7670.o: ..\motor\HARDWARE\src\ov7670.c
+.\objects\ov7670.o: ..\motor\HARDWARE\inc\sys.h
+.\objects\ov7670.o: ..\motor\CMSIS\stm32f10x.h
+.\objects\ov7670.o: ..\motor\CMSIS\core_cm3.h
+.\objects\ov7670.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ov7670.o: ..\motor\CMSIS\system_stm32f10x.h
+.\objects\ov7670.o: ..\motor\HARDWARE\inc\ov7670.h
+.\objects\ov7670.o: ..\motor\HARDWARE\inc\sccb.h
+.\objects\ov7670.o: ..\motor\HARDWARE\inc\ov7670config.h
+.\objects\ov7670.o: ..\motor\HARDWARE\inc\timer.h

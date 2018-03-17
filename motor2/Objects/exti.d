@@ -1,0 +1,10 @@
+.\objects\exti.o: ..\motor\HARDWARE\src\exti.c
+.\objects\exti.o: ..\motor\HARDWARE\inc\exti.h
+.\objects\exti.o: ..\motor\HARDWARE\inc\sys.h
+.\objects\exti.o: ..\motor\CMSIS\stm32f10x.h
+.\objects\exti.o: ..\motor\CMSIS\core_cm3.h
+.\objects\exti.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\exti.o: ..\motor\CMSIS\system_stm32f10x.h
+.\objects\exti.o: ..\motor\HARDWARE\inc\led.h
+.\objects\exti.o: ..\motor\HARDWARE\inc\ov7670.h
+.\objects\exti.o: ..\motor\HARDWARE\inc\sccb.h
